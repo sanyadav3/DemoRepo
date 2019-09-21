@@ -4,7 +4,7 @@ public class TestBase {
 	
 	public void test() {
 		
-		System.out.println();
+		System.out.println("test method");
 		
 	}
 	

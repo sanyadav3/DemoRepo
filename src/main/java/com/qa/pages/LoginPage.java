@@ -8,5 +8,10 @@ public class LoginPage {
 		
 		
 	}
+	
+	public void clickpage() {
+		System.out.println("kuch bhi ha ");
+		
+	}
 
 }
